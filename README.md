@@ -1,4 +1,4 @@
-# 🔐 AWS Cognito Cross-Site Authentication
+# AWS Cognito Cross-Site Authentication
 
 Single Sign-On implementation across multiple domains using Amazon Cognito.
 
